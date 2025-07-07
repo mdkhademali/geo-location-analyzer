@@ -2,7 +2,7 @@
 
 **GeoLocation Analyzer** is a lightweight Chrome Extension that detects geographic location data (like place names or coordinates) from web pages and visualizes them on a map.
 
-![GeoLocation Analyzer Logo](logo.jpg)
+![GeoLocation Analyzer Logo](logo.png)
 
 ---
 
