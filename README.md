@@ -36,3 +36,5 @@ Developed by **Md Khadem Ali**
 - GeoJSON export
 - Multi-location detection
 - Reverse geocoding support
+
+© mdkhademali
